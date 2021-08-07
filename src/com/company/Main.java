@@ -5,7 +5,7 @@ import java.io.File;
 public class Main {
 
     public static void main(String[] args) {
-        String path = "C:\\Users\\HaciyevAB\\source\\repos\\cca-3cx-new\\Audio\\mainMenuBalance\\numbers";
+        String path = "";
         String replaceFrom = "en";
         String replaceTo = "eng";
         replaceFileName(path, replaceFrom, replaceTo);
